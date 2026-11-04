@@ -4,8 +4,6 @@
 
 Файлы проекта: `Name.h`, `Name.cpp`, `Person.h`, `Person.cpp`, `City.h`, `City.cpp`, `Cat.h`, `Cat.cpp`, `Input.h`, `Input.cpp`, `main.cpp`.
 
-Файлов сборки на VS нет, так как перешел на мак :)
-
 ## Сборка и запуск
 
 ```
